@@ -51,7 +51,6 @@ The dataset used is the [Wisconsin Breast Cancer dataset](https://archive.ics.uc
 - ✅ **Model evaluation** with confusion matrix and classification metrics
 - ✅ **Threshold tuning** for optimal recall
 - ✅ **Comparison** with scikit-learn's implementation
-- ✅ **Visualization** of training progress and results
 
 ## Installation
 
