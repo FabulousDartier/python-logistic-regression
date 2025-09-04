@@ -84,8 +84,6 @@ pip install cupy-cudaXX
 
 ## Usage
 
-## Usage
-
 1. **Start Jupyter Notebook:**
 ```bash
 jupyter notebook
